@@ -3,7 +3,11 @@ package net.xianyin.complex.ui;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
-
+/**
+ * 该package下的代码并不完整，勿看
+ * @author xianyin
+ *
+ */
 public class ToolsUI {
 	
 	private JFrame frame;
